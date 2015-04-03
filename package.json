@@ -1,0 +1,17 @@
+{
+  "name": "email-timelines",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "simplecrawler": "~0.3.8",
+    "mongoose": "~3.8.12",
+    "queue": "~2.2.0",
+    "q": "~1.0.1",
+    "fb": "~0.7.0",
+    "cheerio": "~0.18.0"
+  },
+  "devDependencies": {}
+}
